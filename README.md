@@ -2,6 +2,43 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+# Mock-data
+
+```
+Mantin
+Seremban
+Kuala Lumpur
+Alor Setar
+Kota Kinabalu
+Ipoh
+Kuantan
+Kuching
+Miri
+George Town
+Langkawi
+Pasir Gudang
+Kuala Terengganu
+```
+
+## Steps
+
+> npx create-react-app antd-react-app
+> npm i antd
+> npm i @ant-design/icons
+> npm install @reduxjs/toolkit react-redux
+> npm i react-map-gl mapbox-gl
+> npm i axios
+> npm i redux-persist
+> npm i redux-thunk
+> npm i firebase
+
+
+## Reference
+
+https://www.latlong.net/
+https://firebase.google.com/docs/database/web/read-and-write
+
 ## Available Scripts
 
 In the project directory, you can run:
